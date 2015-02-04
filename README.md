@@ -11,6 +11,7 @@ Students Learning with Communities Group:
 1. Juhaina Aljashmi
 2. Hajar Alzahrani
 3. Saira J Barlas (me)
-4. Adam Miedziejewski
-5. Maximilian Mihoc
-6. Cormac Montague
+4. Bianca-Denise Lazar
+5. Adam Miedziejewski
+6. Maximilian Mihoc
+7. Cormac Montague
