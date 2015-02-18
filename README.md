@@ -1,4 +1,4 @@
-Active Learning Group:
+Active Learning Group [Pres]:
 
 1. Ciaran Daly
 2. Hajar Alzahrani
@@ -6,7 +6,7 @@ Active Learning Group:
 4. Saira J. Barlas (me)
 5. Bianca-Denise Lazar
 
-Students Learning with Communities Group:
+Students Learning with Communities Group [Wells for Zoe]:
 
 1. Juhaina Aljashmi
 2. Hajar Alzahrani
